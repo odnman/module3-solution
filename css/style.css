@@ -1,0 +1,35 @@
+#menu-button {
+    border: 1px solid black;
+    font-size: 1.5em;
+    margin-top: -38px;
+    margin-right: 5px;
+}
+hr {
+    margin: 0;
+}
+
+#header {
+    margin: 20px 0;
+}
+
+#collapse-nav > span {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+section {
+    background-color: #999999;
+}
+
+#nav-header {
+    background-color: #999999;
+    color: #000000;
+}
+
+#nav-header > .navbar-header > .navbar-brand{
+    color: #000000;
+}
+
+#nav-header > #menu-button > .icon-bar {
+    background-color: #000000;
+}
